@@ -1,0 +1,37 @@
+.eventsPage {
+	width: 50%;
+	margin: 50px auto;
+
+	.formGroup {
+		display: inline-block;
+		margin-right: 20px;
+
+		label {
+			color: #333;
+			margin-right: 5px;
+		}
+		input {
+			border: 2px solid #ddd;
+			&:hover,
+			&:focus {
+				border: 2px solid #000;
+			}
+			padding: 10px 5px;
+			outline: none;
+		}
+	}
+	.fetch {
+		background-color: #000;
+		color: #fff;
+		border: none;
+		padding: 8px 10px;
+	}
+	.eventFilter {
+		text-align: left;
+		margin-top: 10px;
+		margin-bottom: 2rem;
+		select {
+			padding: 10px;
+		}
+	}
+}
