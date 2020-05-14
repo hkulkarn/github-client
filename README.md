@@ -11,7 +11,7 @@ Read the [Usage Guide](https://yarnpkg.com/en/docs/usage) on yarn official websi
 ## Available Scripts
 
 In the project directory, you can run:
-###  yarn
+### `yarn`
 ### `yarn start`
 
 Runs the app in the development mode.<br />
